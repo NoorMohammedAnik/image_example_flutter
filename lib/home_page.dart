@@ -33,6 +33,9 @@ class HomePage extends StatelessWidget {
               color: Colors.blue
             ),),
 
+            Text("This is text"),
+
+
 
             ElevatedButton(
                 onPressed: (){
