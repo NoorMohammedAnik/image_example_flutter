@@ -1,6 +1,9 @@
 # image_example_flutter
 
-A new Flutter project.
+Image, navigation and toast example in flutter
+
+![screenshot](assets/images/screenshot.png)
+
 
 ## Getting Started
 
